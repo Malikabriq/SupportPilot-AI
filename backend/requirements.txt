@@ -6,4 +6,6 @@ requests
 python-dotenv
 celery
 redis
-openai
+pydantic-settings
+groq
+psycopg2-binary
